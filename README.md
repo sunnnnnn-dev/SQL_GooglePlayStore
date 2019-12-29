@@ -3,4 +3,3 @@
 - written by 위선우(9408172@gmail.com)
 - 포트폴리오 전체 개요 및 설명 ↓ \
 https://www.notion.so/sunnu/GOOGLE_PLAY_STORE-5e31376d0fcf4656a917f21cc6d39c5e
-- ppt 추가 예정(2019년 12월 中)
